@@ -1,6 +1,5 @@
 # MetroImageView
 
-# MetroImageView
 MetroImageView is an Android custom ImageView that replace photos with random animations. 
 
 To use MetroImageView you need to add "facebook/fresco" to your's app build.gradle:
